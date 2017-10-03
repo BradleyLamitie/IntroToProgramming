@@ -1,0 +1,12 @@
+h1,h2,h3{
+	text-align: center;
+	color: blue;
+}
+body{
+	text-align: center;
+	color:red;
+}
+#intro{
+	font-weight:bold;
+	color: gray;
+}
